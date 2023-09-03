@@ -1,0 +1,1 @@
+# quarkus-rabbitmq-sender-issue
